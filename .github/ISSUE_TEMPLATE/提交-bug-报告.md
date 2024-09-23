@@ -1,12 +1,13 @@
 ---
 name: 提交 Bug 报告
 about: Create a report to help us improve
-title: "[BUG]"
+title: "[BUG] "
 labels: bug
 assignees: zhangysh1995
 
 ---
 
+<!-- 填写前请查看是否内容重复；如果重复可以在原来的 issue 留言，请不要再次提交 -->
 <!-- ⚠️ 请不要删除以下内容中的符号 * 或者 <> -->
 
 
@@ -42,5 +43,9 @@ assignees: zhangysh1995
  - Browser 浏览器名称  [e.g. stock browser, safari]:
  - Version 浏览器版本号 [e.g. 22]:
 
+
 **额外背景信息 (选填)**
 <!-- 补充需要理解这个 bug 的额外信息 -->
+
+
+<!-- 填写前请查看是否内容重复；如果重复可以在原来的 issue 留言，请不要再次提交 -->
